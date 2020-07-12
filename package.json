@@ -47,7 +47,7 @@
     "@nrwl/web": "9.5.1",
     "@nrwl/workspace": "9.5.1",
     "@types/jest": "25.1.4",
-    "@types/node": "8.9.5",
+    "@types/node": "8.10.61",
     "@typescript-eslint/eslint-plugin": "2.19.2",
     "@typescript-eslint/parser": "2.19.2",
     "dotenv": "6.2.0",
